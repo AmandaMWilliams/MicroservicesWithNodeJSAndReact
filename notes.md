@@ -22,3 +22,6 @@ Postman: Used for API calls (Get/Post).
 
 Component: A web page, or part of a webpage that has a function
 
+To start Nodemon: npm start
+To end Nodemon: Ctrl + C
+
